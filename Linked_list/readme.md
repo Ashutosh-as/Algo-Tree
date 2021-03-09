@@ -23,9 +23,9 @@ properties.
 
 • Delete List: removes all elements of the list (disposes the list)
 
-• Count: returns the number of elements in the list
+• Count: returns the number of element in the list
 
-• Find nth node from the end of the list
+• Find nth node from the end of the list 
 
 ## Questions :
 * Insertion ----> [C++](/Code/C++/insertion_in_linked_list.cpp)
